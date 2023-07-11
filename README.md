@@ -1,6 +1,9 @@
 # Ingenuity-Trajectory
 Theses codes are all the steps involved in the calculation of the trajectory of Ingenuity using the pictures it took during its flights
-![GIF created by this code of Ingenuity Flight 9 trajectory][(Flight9-HiRISE-GIF.gif)
+
+<p align=center>
+  <img src="https://github.com/AstroAure/Ingenuity-Trajectory/blob/main/Flight9-HiRISE-GIF.gif" alt="GIF created by this code of Ingenuity Flight 9 trajectory"/>
+</p>
 
 ## Description
 - 1-Ingenuity spotted : Finds Ingenuity, given a template, on every picture during a flight
